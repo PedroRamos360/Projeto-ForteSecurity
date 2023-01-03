@@ -1,0 +1,11 @@
+Boa tarde, Pedro!
+
+Conforme combinado, envio os requisitos para o projeto:
+
+Desenvolva uma aplicação web para o controle de um carrinho de compras de um e-commerce, pela qual deve ser possível listar os produtos presentes no carrinho. Devem ser exibidos o nome e preço de cada produto, bem como o total do carrinho.
+
+A aplicação deve incluir uma interface web em React, a qual buscará os dados em um backend em NodeJS, o qual consultará os produtos em um banco de dados.
+
+Deve ser criado um projeto público no GitHub, e o link deve ser enviado a mim por e-mail até o dia 04/01/2023 às 18 horas.
+
+O projeto é fácil, mas ele apenas funcionar não basta. Tudo será avaliado.
