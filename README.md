@@ -1,5 +1,5 @@
 # Projeto-ForteSecurity
-Aplicação desafio para vaga de estágio na Forte Security. A aplicação consiste em um gerenciador de compras, no qual podem ser criados carrinhos de compras
+Aplicação desafio para vaga de estágio na Forte Security desenvolvida com React para o frontend e Node para o backend. A aplicação consiste em um gerenciador de compras, no qual podem ser criados carrinhos de compras
 e adicionar e excluir produtos dentro deles.
 
 
