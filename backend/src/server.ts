@@ -18,8 +18,7 @@ async function bootstrap() {
     })
 
     await fastify.register(jwt, {
-        // secret: process.env.JWT_SECRET as Secret
-        secret: "mysecter12345"
+        secret: process.env.JWT_SECRET as Secret
     })
 
     fastify.register(productRoutes)
