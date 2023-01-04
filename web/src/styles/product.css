@@ -1,0 +1,14 @@
+.product-container {
+    display: flex;
+    background-color: gray;
+    border-radius: 10px;
+    margin: 10px;
+    width: 200px;
+    justify-content: space-between;
+    padding: 0 30px 0 30px;
+}
+
+.product-text {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
