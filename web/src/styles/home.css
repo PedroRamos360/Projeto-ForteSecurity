@@ -3,9 +3,26 @@
     height: 100%;
 }
 
+#container header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
 #title {
     font-size: 30px;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    text-align: center;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+
+.button-group {
+    display: flex;
+}
+
+.header-line {
+    margin-top: 0;
 }

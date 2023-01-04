@@ -1,14 +1,32 @@
 .product-container {
     display: flex;
     background-color: gray;
-    border-radius: 10px;
-    margin: 10px;
+    border-radius: 10px 0 0 10px;
+    margin-left: 30px;
+    margin-bottom: 10px;
     width: 200px;
     justify-content: space-between;
-    padding: 0 30px 0 30px;
+    padding: 10px 30px 10px 30px;
+}
+
+.product-container2 {
+    display: flex;
 }
 
 .product-text {
     color: white;
     font-family: 'Roboto', sans-serif;
+    margin: 0;
 }
+
+.delete-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    width: 44px;
+    border: 0;
+    height: 44px;
+    border-radius: 0 10px 10px 0;
+}
+
