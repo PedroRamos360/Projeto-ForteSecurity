@@ -1,0 +1,28 @@
+.cart {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 85vh;
+    margin-right: 50px;
+}
+
+.cart-title {
+    margin: 0;
+    align-self: center;
+}
+
+.delete-cart {
+    border-radius: 10px;
+}
+
+.cart-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.products {
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}

@@ -14,16 +14,12 @@ model Product {
   id       String      @id @default(cuid())
   name     String
   price    Float
-
   cartId String
-
-  cart Cart @relation(fields: [cartId], references: [id])
 }
 
 model Cart {
   id       String      @id @default(cuid())
   name    String  @unique
-  products  Product[]
 }
 
 

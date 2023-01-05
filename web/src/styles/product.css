@@ -1,10 +1,10 @@
 .product-container {
     display: flex;
-    background-color: gray;
+    background-color: #EBEBEB;
+    border: 2px solid #e0e0e0;
     border-radius: 10px 0 0 10px;
-    margin-left: 30px;
     margin-bottom: 10px;
-    width: 200px;
+    width: 300px;
     justify-content: space-between;
     padding: 10px 30px 10px 30px;
 }
@@ -14,7 +14,7 @@
 }
 
 .product-text {
-    color: white;
+    color: black;
     font-family: 'Roboto', sans-serif;
     margin: 0;
 }
@@ -24,9 +24,9 @@
     justify-content: center;
     align-items: center;
     background-color: red;
-    width: 44px;
+    width: 47px;
     border: 0;
-    height: 44px;
+    height: 47px;
     border-radius: 0 10px 10px 0;
 }
 
